@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="app">
       {/* Nav */}
+
       {/* banner */}
       <Banner />
       <Row
